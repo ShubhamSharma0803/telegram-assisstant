@@ -1,0 +1,634 @@
+{
+  "chat_id": 8875350848,
+  "morning": "08:00",
+  "night": "21:30",
+  "plan": {
+    "2026-10-23": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL: Chai Code video ~1.5h (part 1)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1757 Recyclable & Low Fat Products",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 595 Big Countries",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 584 Find Customer Referee",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 104 Maximum Depth of Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 144 Preorder Traversal",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 94 Inorder Traversal",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 145 Postorder Traversal",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): layers: OSI vs TCP/IP, life of a request",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-24": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL: Chai Code video ~1.5h (part 2)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1683 Invalid Tweets",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1378 Replace Employee ID",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 102 Level Order Traversal",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 226 Invert Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): HTTP/HTTPS: methods, status codes, headers",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 CF Round 1129 (Div 2) · 4:35 PM IST",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏆 LC Biweekly 194 · ~8:00 PM IST (confirm)",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏃 Run/walk 0.8 km",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-25": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL: Chai Code video ~1.5h (part 3)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1068 Product Sales Analysis I",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1581 Visited but No Transactions",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 197 Rising Temperature",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 100 Same Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 101 Symmetric Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 111 Minimum Depth of Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): DNS: resolution flow, record types",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 LC Weekly 525 · ~8:00 AM IST (confirm)",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-26": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL: Chai Code video ~1.5h (part 4)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1661 Avg Time of Process per Machine",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 577 Employee Bonus",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1280 Students and Examinations",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 110 Balanced Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 543 Diameter of Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 112 Path Sum",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): TCP vs UDP, ports, sockets",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 CF Round (Div 2) · 8:05 PM IST, 2h15m",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-27": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL: Chai Code video ~1.5h (part 5)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 570 Managers with 5+ Direct Reports",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1934 Confirmation Rate",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 620 Not Boring Movies",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 572 Subtree of Another Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 108 Sorted Array to BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 637 Average of Levels",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 199 Right Side View",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): TCP handshake, flow & congestion control",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏃 Run 1.2 km",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-28": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL 1251 Average Selling Price",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1075 Project Employees I",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1633 % of Users Attended a Contest",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 98 Validate BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 230 Kth Smallest in BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 235 LCA of a BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): IP addressing, subnetting, CIDR",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 CodeChef Starters 262 · ~8 PM IST (confirm)",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-29": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL 1211 Queries Quality & Percentage",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1193 Monthly Transactions I",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1174 Immediate Food Delivery II",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 236 LCA of Binary Tree",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 105 Build Tree (Preorder+Inorder)",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 103 Zigzag Level Order",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 1448 Count Good Nodes",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): routing, NAT, DHCP",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-30": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL 550 Game Play Analysis IV",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 2356 Unique Subjects per Teacher",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1141 User Activity Past 30 Days I",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 129 Sum Root to Leaf Numbers",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 437 Path Sum III",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 701 Insert into a BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 450 Delete Node in a BST",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): Ethernet, ARP, switch vs router",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏃 Run 1.5 km",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-31": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL 1070 Product Sales Analysis III",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 596 Classes More Than 5 Students",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 114 Flatten Binary Tree to Linked List",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 513 Find Bottom Left Tree Value",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): TLS handshake + Python socket echo server",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 CF Round (Div 3) · time TBD",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏋️ Gym",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-11-01": [
+      {
+        "t": "🚿 Cold shower + brush teeth",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min after waking",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🗄️ SQL 1729 Find Followers Count",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 619 Biggest Single Number",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🗄️ SQL 1045 Customers Who Bought All Products",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌳 LC 124 Binary Tree Maximum Path Sum",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🌐 Networking (45m): Wireshark: capture a DNS+HTTP request, recap",
+        "done": null,
+        "roll": true
+      },
+      {
+        "t": "🏆 LC Weekly 526 · ~8:00 AM IST (confirm)",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "🏃 Run 2 km (goal!)",
+        "done": null,
+        "roll": false
+      },
+      {
+        "t": "📵 No screen 15 min before sleep",
+        "done": null,
+        "roll": false
+      }
+    ],
+    "2026-10-22": [
+      {
+        "t": "test task",
+        "done": true,
+        "roll": true
+      }
+    ]
+  }
+}
